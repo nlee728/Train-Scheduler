@@ -9,3 +9,26 @@
     box-shadow: 0 0 4px #222;
     font-size: 30px;
   }
+
+  body { 
+    background: url(../images/durham\ map.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  .jumbotron {
+    text-align: center;
+    background-color: lightslategray;
+    padding: 10px;
+  }
+
+  h1 {
+    font-weight: bold;
+    font-size: 60px;
+  }
+
+  .card-header {
+    background-color: lightslategray;
+  }
